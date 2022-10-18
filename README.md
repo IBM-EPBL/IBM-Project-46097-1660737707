@@ -1,5 +1,5 @@
 # IBM-Project-46097-1660737707
-IoT Based Safety Gadget for Child Safety Monitoring &amp; 
+IoT Based Safety Gadget for Child Safety Monitoring & Notification; 
 
 Team Members:
 
