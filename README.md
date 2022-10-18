@@ -3,10 +3,10 @@ IoT Based Safety Gadget for Child Safety Monitoring &amp;
 
 Team Members:
 
-Mohith.K
-Abhishek Ramsu R.S
-Ashwin.C.Kumar
-Yuvraj Tripathi
+1.Mohith.K
+2.Abhishek Ramsu R.S
+3.Ashwin.C.Kumar
+4.Yuvraj Tripathi
 
 Industry Mentor(s) Name: Baradwaj IL
 
