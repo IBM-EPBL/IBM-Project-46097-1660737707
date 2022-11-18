@@ -12,4 +12,4 @@ Team Members:
 
 Industry Mentor(s) Name: Baradwaj IL
 
-Faculty Mentor(s) Name: K.Brindha
+Faculty Mentor Name: K.Brindha
